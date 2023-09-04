@@ -29,7 +29,7 @@ const Items = {
         image : MachinyWashyImage,
         title : "Machiny Washy",
         description : `
-            Made from Although it might looks like Super Wash Washy 300 
+            Made from Japan. Although it might looks like Super Wash Washy 300 
             We can guaranteed you that the two are different
             they might sound the same but they are two diffrent
             race of washing machine.
