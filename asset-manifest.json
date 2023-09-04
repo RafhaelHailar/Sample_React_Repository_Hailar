@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_Hailar/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_Hailar/static/js/main.f1d5872b.js",
+    "static/js/787.98651143.chunk.js": "/Sample_React_Repository_Hailar/static/js/787.98651143.chunk.js",
+    "static/media/washing-machine-2.png": "/Sample_React_Repository_Hailar/static/media/washing-machine-2.c28b33c493b3bbb82839.png",
+    "static/media/banner.jpeg": "/Sample_React_Repository_Hailar/static/media/banner.0d3a6d450fb94d28f276.jpeg",
+    "static/media/washing-machine-1.webp": "/Sample_React_Repository_Hailar/static/media/washing-machine-1.d6397fbdf989e78ff5dc.webp",
+    "static/media/washing-machine-2.webp": "/Sample_React_Repository_Hailar/static/media/washing-machine-2.42f482155412acf66214.webp",
+    "index.html": "/Sample_React_Repository_Hailar/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_Hailar/static/css/main.88404e20.css.map",
+    "main.f1d5872b.js.map": "/Sample_React_Repository_Hailar/static/js/main.f1d5872b.js.map",
+    "787.98651143.chunk.js.map": "/Sample_React_Repository_Hailar/static/js/787.98651143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.f1d5872b.js"
+  ]
+}
